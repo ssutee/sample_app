@@ -110,7 +110,6 @@ footer {
   margin-right: auto;
 }
 
-foooter nav {
-  /* overrides the previous rule */
+footer nav {
   float: none;
 }
