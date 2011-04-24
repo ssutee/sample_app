@@ -37,6 +37,6 @@ end
 group :test do
   gem 'rspec'
   gem 'webrat'
-  gem 'spork', '0.9.0.rc4'
+  gem 'spork'
   gem 'factory_girl_rails'
 end
